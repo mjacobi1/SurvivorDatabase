@@ -1,0 +1,10 @@
+INSERT INTO tribe (tribe_name) VALUES ('Pagong');
+INSERT INTO tribe (tribe_name) VALUES ('Tagi');
+INSERT INTO tribe (tribe_name) VALUES ('Rattana');
+INSERT INTO tribe (tribe_name) VALUES ('Chapera');
+INSERT INTO tribe (tribe_name) VALUES ('Mogo Mogo');
+INSERT INTO tribe (tribe_name) VALUES ('Saboga');
+INSERT INTO tribe (tribe_name) VALUES ('Chaboga Mogo');
+INSERT INTO tribe (tribe_name) VALUES ('Kucha');
+INSERT INTO tribe (tribe_name) VALUES ('Ogakor');
+INSERT INTO tribe (tribe_name) VALUES ('Barramundi');
